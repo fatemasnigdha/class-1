@@ -1,0 +1,222 @@
+{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #FF75A0;
+	overflow: hidden;
+}
+.header{
+	width: 100%;
+	overflow: hidden;
+	margin-top: 10px;
+
+}
+.les{
+	background-color: white;
+	margin: 10px 0px;
+	padding: 10px 0px;
+}
+.wrapper{
+	width: 80%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.menu{
+	text-align: center;
+	overflow: hidden;
+	width: 60%;
+	margin: 0 auto;
+}
+.menu ul{
+	overflow: hidden;
+}
+.menu ul li{
+	list-style: none;
+	padding: 10px 6px;
+	float: left;
+	margin-left: 28px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+	font-weight: 400;
+}
+.menu ul li a:hover{}
+.menu1{
+	margin-left: 445px;
+	color: red;
+	background-color: red;
+	border-radius: 50%;
+	height: 7px;
+	width: 7px;
+	font-size: x-small;
+	overflow: hidden;
+	display: block;
+	margin-top: 5px;
+	/*live a red korar tecnic*/
+}
+.service{
+	overflow: hidden;
+	width: 100%;
+}
+.service_title{
+	overflow: hidden;
+}
+.service_title h2{
+	color: #022E57;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 40px;
+	margin-top: 0.80px;
+}
+.service_title .first1{
+	font-size: 35px;
+	color: #FFC93C;
+	font-weight: 400;
+	margin-top: 15px;
+	line-height: 50px;
+}
+.service_title .first2{
+	font-size: 35px;
+	color: #00EAD3;
+	font-weight: 400;
+	margin-top: 10px;
+}
+.service_title p{
+	color: #022E57;
+	font-size: 15px;
+	font-weight: 300;
+
+}
+.form_section{
+	width: 100%;
+	overflow: hidden;
+	margin-top: 20px;
+}
+.form_part{
+	overflow: hidden;
+}
+.form_part .input1{
+	width: 48%;
+	padding: 10px;
+}
+.form_part .input2{
+	width: 47%;
+	padding: 10px;
+}
+
+.form_part textarea{
+    width: 99%;
+margin-top: 10px;
+padding: 10px 3px;
+/*background-color: transparent;*/
+color: dimgray;
+font-weight: 400;
+}
+
+.check_section{
+	width: 100%;
+	overflow: hidden;
+}
+.check_title{
+	overflow: hidden;
+}
+.check_title input{
+	margin-top: 15px;
+	color: dimgray;
+	margin-right: 2px;
+}
+.check_title .lable1{
+	color: dimgray;
+}
+.send1{
+	font-size: 18px;
+	background-color:#00EAD3;
+	border-radius: 30px;
+	font-weight: 400;
+	padding: 10px 12px;
+	width: 11%;
+	color: #053742;
+	text-align: center;
+	margin-top: 30px;
+}
+.last_part{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 10px;
+/*    line-height: 50px;*/
+    height: 150px;
+/*     background-color:#19376C;*/
+}
+.font_part{
+    overflow: hidden;
+      background-color:#19376C;
+    padding: 20px 0px;
+    text-align: center;
+   
+}
+.font_part ul{
+/*    margin: 0 auto;*/
+/*    padding: 20px;*/
+/*    margin: 20px;*/
+  
+}
+.font_part ul li{
+  display: inline-block;
+    list-style: none;
+    margin: 0px 30px;
+}
+.font_part ul li a{
+/*    padding: 10px;*/
+    text-decoration: none;
+    
+}
+.font_part ul li a i{
+    height: 60px;
+    width: 60px;
+/*    background-color: red;*/
+    line-height: 60px;
+    font-size: 22px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+
+
+/*.last_part{
+	width: 100%;
+	overflow: hidden;
+	margin-top: 10px;
+	height: 150px;
+}
+.font_part{
+	height: 20px;
+	width: 100%;
+	overflow: hidden;
+	padding: 20px 0px;
+	text-align: center;
+}
+.font_part ul li{
+	display: inline-block;
+	list-style: none;
+	margin-top: 0px 30px;
+}
+.font_part ul li a{
+	text-decoration: none;
+}
+.font_part ul li a i{
+    height: 60px;
+    width: 60px;
+/*    background-color: red;*/
+    line-height: 60px;
+    font-size: 22px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 10px;
+}*/
